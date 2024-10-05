@@ -68,4 +68,10 @@ The chi-squared test reveals a significant association between treatment type (d
 
 # Discussion and Conclusion
 
+The analysis indicates a significant difference in infection rates between the drug and placebo groups. In the “aids” category, the drug group shows an infection rate exceeding 50%, while the placebo group is between 40% and 50%, suggesting a greater than 10% difference in favor of the drug group. This implies a higher likelihood that the drug contributes to a positive outcome (aids). Conversely, in the “none” category, both groups are close to 50%, with the placebo group slightly higher, indicating a minor difference of less than 5%, suggesting no strong differentiation in non-infection rates. Among infected individuals, the drug group exhibits a significantly higher aids rate of 58.82% compared to 41.18% for the placebo group. The chi-squared test results confirm a significant association between treatment type (drug vs. placebo) and infection status (aids vs. none), with χ² = 15.634 and a p-value of 7.686e-05. The observed counts reveal 210 infections in the drug group against 147 in the placebo group, which is substantially higher than the expected count of 172.74 for the drug group. These findings highlight a potential link between drug treatment and increased infection rates. 
+
+I conducted three statistical tests: the first was a chi-squared test; the second was a chi-squared test utilizing TigerStats; and the final test performed was Fisher's exact test.
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
